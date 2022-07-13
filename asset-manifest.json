@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Color-Boxes/static/css/main.eaf635e3.css",
+    "main.js": "/React-Color-Boxes/static/js/main.c443e3a4.js",
+    "static/js/787.ddb3243a.chunk.js": "/React-Color-Boxes/static/js/787.ddb3243a.chunk.js",
+    "index.html": "/React-Color-Boxes/index.html",
+    "main.eaf635e3.css.map": "/React-Color-Boxes/static/css/main.eaf635e3.css.map",
+    "main.c443e3a4.js.map": "/React-Color-Boxes/static/js/main.c443e3a4.js.map",
+    "787.ddb3243a.chunk.js.map": "/React-Color-Boxes/static/js/787.ddb3243a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf635e3.css",
+    "static/js/main.c443e3a4.js"
+  ]
+}
