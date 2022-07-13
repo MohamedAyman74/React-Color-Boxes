@@ -1,0 +1,10 @@
+.ColoredBox {
+  background-color: aqua;
+  width: 250px;
+  height: 250px;
+}
+
+.ColoredBox:nth-child(6n) {
+  page-break-after: always;
+  break-after: always;
+}
